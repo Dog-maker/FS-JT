@@ -8,16 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jt-order" />
-        <module name="dubbo-jt-demo-provider" />
-        <module name="dubbo-jt-demo-interface" />
         <module name="jt-sso" />
-        <module name="dubbo-jt-demo-provider2" />
-        <module name="dubbo-jt-demo-consumer" />
         <module name="jt-manage" />
-        <module name="springboot_demo3" />
         <module name="jt-common" />
         <module name="jt-web" />
-        <module name="spring_demo2" />
         <module name="jt-cart" />
       </profile>
     </annotationProcessing>

@@ -10,8 +10,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/spring_demo2/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_demo3/pom.xml" />
         <option value="$PROJECT_DIR$/jt/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-jt/pom.xml" />
       </list>

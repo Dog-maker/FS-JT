@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-consumer/dubbo-jt-demo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-consumer/dubbo-jt-demo-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-interface/dubbo-jt-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-interface/dubbo-jt-demo-interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-provider/dubbo-jt-demo-provider.iml" filepath="$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-provider/dubbo-jt-demo-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-provider2/dubbo-jt-demo-provider2.iml" filepath="$PROJECT_DIR$/dubbo-jt/dubbo-jt-demo-provider2/dubbo-jt-demo-provider2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt.iml" filepath="$PROJECT_DIR$/jt/jt.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-cart/jt-cart.iml" filepath="$PROJECT_DIR$/jt/jt-cart/jt-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt/jt-common/jt-common.iml" />
@@ -14,8 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/jt/jt-sso/jt-sso.iml" filepath="$PROJECT_DIR$/jt/jt-sso/jt-sso.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-web/jt-web.iml" filepath="$PROJECT_DIR$/jt/jt-web/jt-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/new_jt.iml" filepath="$PROJECT_DIR$/.idea/new_jt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring_demo2/spring_demo2.iml" filepath="$PROJECT_DIR$/spring_demo2/spring_demo2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot_demo3/springboot_demo3.iml" filepath="$PROJECT_DIR$/springboot_demo3/springboot_demo3.iml" />
     </modules>
   </component>
 </project>
