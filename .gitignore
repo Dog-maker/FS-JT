@@ -1,0 +1,12 @@
+# 项目排除路径
+/dubbo-jt/dubbo-jt-demo-consumer/target/
+/dubbo-jt/dubbo-jt-demo-interface/target/
+/dubbo-jt/dubbo-jt-demo-provider/target/
+/dubbo-jt/dubbo-jt-demo-provider2/target/
+/jt/jt-cart/target/
+/jt/jt-common/target/
+/jt/jt-manage/target/
+/jt/jt-order/target/
+/jt/jt-sso/target/
+/jt/jt-web/target/
+/springboot_demo3/target/
